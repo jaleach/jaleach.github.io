@@ -1,0 +1,137 @@
+body {
+  background: grey;
+  background-color: black;
+  color: black; }
+
+.nav-wrapper {
+  padding-left: 40px;
+  background-color: grey;
+  font-size: 30px;
+  margin-top: -12px;
+  padding-top: 2px; }
+  .nav-wrapper label {
+    margin-left: 200px;
+    color: white;
+    font-size: 25px; }
+
+nav {
+  background: grey;
+  height: 20%; }
+
+li {
+  list-style: none; }
+
+.backphoto img {
+  width: 100%; }
+
+<<<<<<< HEAD
+.abt {
+  width: 800px;
+  height: 355px; }
+
+=======
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+.aboutme {
+  font-size: 20px;
+  text-align: center; }
+  .aboutme a:hover {
+    color: white; }
+
+<<<<<<< HEAD
+.port {
+  width: 1200px;
+  height: 435px; }
+  .port img {
+    width: 280px; }
+=======
+.port img {
+  width: 280px; }
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+
+.myport {
+  text-align: center; }
+  .myport .hoverable {
+    width: 320px;
+    display: inline-table;
+    font-size: 20px;
+    font-style: bold; }
+
+.card-panel {
+  margin: 18px; }
+
+<<<<<<< HEAD
+.contact {
+  width: 800px;
+  height: 330px; }
+
+=======
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+.modal-content {
+  background-color: #CDD6DB; }
+
+.modal .modal-footer {
+  border-radius: 0 0 2px 2px;
+  background-color: #CDD6DB;
+  padding: 4px 6px;
+  height: 58px;
+  width: 100%; }
+
+<<<<<<< HEAD
+.thecont {
+  font-size: 30px;
+=======
+.modal-footer {
+  background-color: #CDD6DB; }
+
+.thecont {
+  font-size: 25px;
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+  text-align: center; }
+  .thecont a:link {
+    color: black; }
+  .thecont .fa {
+    color: black;
+    font-size: 25px; }
+  .thecont a:hover {
+    color: white; }
+
+.work1 {
+  text-align: center;
+<<<<<<< HEAD
+  height: 500px; }
+  .work1 img {
+    width: 420px; }
+=======
+  height: 378px; }
+  .work1 img {
+    width: 220px; }
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+  .work1 a:link {
+    color: black; }
+
+.short {
+  font-family: 'Audiowide', cursive; }
+
+.trendy {
+  font-family: 'Amatic SC', cursive; }
+
+.elvis {
+  font-family: 'Courgette', cursive; }
+
+.work2 {
+  text-align: center;
+<<<<<<< HEAD
+  height: 430px; }
+  .work2 img {
+    width: 420px; }
+=======
+  height: 340px; }
+  .work2 img {
+    width: 220px; }
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+  .work2 a:link {
+    color: black; }
+
+.skills {
+  font-size: 25px;
+  text-align: center; }

@@ -1,0 +1,177 @@
+
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+body{
+  background: grey;
+  background-color: black;
+  color: black;
+}
+.nav-wrapper{
+  padding-left: 40px;
+  background-color: grey;
+  font-size: 30px;
+  margin-top: -12px;
+  padding-top: 2px;
+  label{
+    margin-left: 200px;
+    color: white;
+    font-size: 25px;
+  }
+}
+nav{
+  background: grey;
+  height: 20%;
+}
+li{
+  list-style: none;
+}
+.backphoto{
+  img{
+  width: 100%;
+  }
+}
+// about
+<<<<<<< HEAD
+.abt{
+  width: 800px;
+  height: 330px;
+}
+=======
+// .abt{
+//   width: 800px;
+//   height: 300px;
+// }
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+.aboutme{
+  font-size: 20px;
+  text-align: center;
+  a:hover{
+  color: white;
+  }
+}
+// work
+.port{
+<<<<<<< HEAD
+ width: 1200px;
+ height: 435px;
+=======
+ // width: 1200px;
+ // height: 435px;
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+img{
+  width: 280px;
+  }
+}
+.myport{
+  text-align: center;
+  .hoverable{
+    width: 320px;
+    display: inline-table;
+    font-size: 20px;
+    font-style: bold;
+  }
+}
+.card-panel {
+  margin: 18px;
+  }
+// contact
+<<<<<<< HEAD
+.contact{
+  width: 800px;
+  height: 330px;
+}
+=======
+// .contact{
+//   width: 800px;
+//   height: 330px;
+// }
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+.modal-content{
+  background-color: #CDD6DB;
+}
+.modal .modal-footer {
+    border-radius: 0 0 2px 2px;
+    background-color: #CDD6DB;
+    padding: 4px 6px;
+    height: 58px;
+    width: 100%;
+}
+<<<<<<< HEAD
+//   .modal-footer{
+//   background-color: #AE8C00;
+//   height: 15px;
+// }
+.thecont{
+  font-size: 30px;
+=======
+   .modal-footer{
+   background-color: #CDD6DB;
+//   height: 15px;
+ }
+.thecont{
+  font-size: 25px;
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+  text-align: center;
+  a:link{
+    color: black;
+  }
+  .fa{
+    color: black;
+    font-size: 25px;
+  }
+  a:hover {
+    color: white;
+  }
+}
+// Modals for work
+.work1{
+  text-align: center;
+<<<<<<< HEAD
+  height: 500px;
+  img{
+  width: 420px;
+=======
+  height: 378px;
+  img{
+  width: 220px;
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+  }
+  a:link{
+    color: black;
+  }
+}
+.short{
+font-family: 'Audiowide', cursive;
+}
+.trendy{
+  font-family: 'Amatic SC', cursive;
+}
+.elvis{
+  font-family: 'Courgette', cursive;
+}
+ .work2{
+  text-align: center;
+<<<<<<< HEAD
+  height: 430px;
+  img{
+  width: 420px;
+=======
+  height: 340px;
+  img{
+  width: 220px;
+>>>>>>> a38b98f02967f7597be1c3571311c3da2254ffc4
+  }
+  a:link{
+    color: black;
+  }
+}
+// skills
+.skills{
+  font-size: 25px;
+  text-align: center;
+}
+
